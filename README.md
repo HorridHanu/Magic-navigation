@@ -6,5 +6,6 @@ magic navigation with (pure html css and javascript).
 
 # Don't be so serious
 This is mess up of code, but who cares :)
+
 ❤️💸🥺🖤☘️🌻🌏
 
